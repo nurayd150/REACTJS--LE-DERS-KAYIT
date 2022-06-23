@@ -1,0 +1,60 @@
+* {
+    margin:0;
+    padding:0;
+}
+ 
+body {
+    font:13px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background:#EEE;
+}
+ 
+table {
+    width:600px;
+    margin:200px auto;
+    table-layout:fixed;
+    border-collapse:collapse;
+}
+ 
+caption {
+    font-size:20px;
+    margin-bottom:20px;
+    color:black;
+    font-weight: bolder;
+    caption-side:top;
+}
+ 
+tr:nth-child(odd) {
+    background:#DDD;
+}
+ 
+td, th {
+    padding:8px;
+}
+ 
+th {
+    background:#0DD;
+}
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+ .button:hover{
+    border: 1px solid black;
+    background-color: rgb(228, 145, 115);
+  }
+.donus{
+    background-color: coral; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

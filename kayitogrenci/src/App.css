@@ -1,0 +1,26 @@
+body{
+  background-color: bisque;
+}
+.App{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction: column;
+}
+h1{
+  text-align:center;
+  flex-direction: column;
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: coral;
+  padding: 40px
+}
+input{
+  width: 200px;
+  height:33px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,22 @@
+
+.myDiv {
+    border: 5px outset white;
+    background-color:coral;
+    text-align: center;
+    font-size: x-large;
+  }
+.OgrDiv {
+    border: 5px outset white;
+    background-color: coral;
+    text-align: center;
+    font-size: x-large;
+  }
+.ana{
+    border: 200px outset coral ;
+    border-color: coral;
+    padding:0px;
+    text-align: center;
+    margin: 170px;
+
+ 
+}
